@@ -1,0 +1,61 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+	font-family: Roboto;
+	padding: 20px;
+    background: hsl(196, 25%, 88%) !important;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.main{
+    width: 50rem;
+    height: 30rem;
+    background: #385a6646;
+    margin-top: 95px;
+    border-top-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+    box-shadow: -1em 16px .4em #05141a1c;
+}
+.container{
+    margin-top: 5rem;
+    height: 20rem;
+    background: #dae5e9a6;
+}
+/* .star{
+    width: 14rem;
+    margin-top: 25rem; 
+    position: absolute;
+    top: 60px;
+    left: 140px;
+} */
+.twoStar{
+    width: 10rem;
+    position: absolute;
+    top: 7rem;
+    left: 64rem;
+}
+.pentagon{
+    width: 13rem;
+    position: absolute;
+    top: 31rem;
+    left: 57rem;
+}
+.pentagon2{
+    width: 15rem;
+    position: absolute;
+    top: 1rem;
+    left: 12rem;
+}
+.box{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    padding-top: 8rem;
+    font-size: 20px;
+}
+.tried{
+    margin-left: 20px;
+    color: #2e4c5765;
+}
